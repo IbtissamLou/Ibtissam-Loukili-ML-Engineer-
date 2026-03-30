@@ -38,13 +38,13 @@ Evaluated GAN-generated time-series using 1D CNN, TCN, PatchTST, with contextual
 🛍️ Interactive Statistical Analysis Tool (IFF)
 Built a Python Dash application for exploratory analysis of olfactory datasets and insights generation.
 
-🧠 Current Focus
+### 🧠 Current Focus
 Designing AI-powered products 
 Building RAG systems & agent-based architectures
 Developing scalable and production-ready ML systems
 Exploring secure, privacy-aware AI design
 
-🛠️ Technical Skills
+### 🛠️ Technical Skills
 Languages & Frameworks
 Python (Pandas, NumPy), PyTorch, scikit-learn, Hugging Face, SpaCy, Java, SQL
 
@@ -57,21 +57,21 @@ PostgreSQL, Spark, Docker, FastAPI, REST APIs, CI/CD (GitHub Actions)
 Cloud & Tools
 AWS, GCP, Git, Linux
 
-💼 Experience
+### 💼 Experience
 ML Engineer Intern — EDF R&D (Paris-Saclay)
 Evaluated synthetic energy consumption data and improved modeling pipelines for forecasting systems.
 Data Scientist Intern — IFF
 Built an interactive analytics platform and developed ML-driven insights for product improvement.
 
-🎓 Education
+### 🎓 Education
 Engineering Degree in Data Science — ENSAI (France)
 
-📫 Contact
+### 📫 Contact
 Email: ibtissamloukili20@gmail.com
 LinkedIn: https://www.linkedin.com/in/ibtissam-loukili
 Medium: https://medium.com/@ibtissamcom1993
 
-🚀 How to Explore My Work
+### 🚀 How to Explore My Work
 Each project includes a detailed README with:
 Problem definition
 Technical approach
