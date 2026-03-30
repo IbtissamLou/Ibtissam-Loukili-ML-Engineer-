@@ -1,52 +1,80 @@
-# Hi — I’m Ibtissam Loukili 👋
-**AI & Machine Learning Engineer | Data Scientist**  
-Based in ILE-DE-FRANCE, France · Open to AI & ML Engineer | Data Scientist | NLP & Generative AI | Analytics & MLOps roles starting **January 2026**
+## Hi — I’m Ibtissam Loukili 👋
 
-- I build end-to-end ML systems (from data engineering and modeling to deployment and monitoring). I enjoy applying machine learning to create data-driven solutions across different sectors, and I’m curious about exploring diverse real-world applications.
----
+AI & Machine Learning Engineer | Building Secure & Real-World AI Systems
 
-## 🔭 Spotlight projects 
+Graduated from ENSAI (France 🇫🇷).
+Open to AI / ML Engineering, NLP, Generative AI, and MLOps roles.
 
-- **🩺Healthcare Knowledge Assistant with RAG and Agentic AI (Llama 3, Chroma, Streamlit)** - Integrated Llama 3 and ChromaDB for semantic search and synthesis of reliable medical information, Built an interactive Streamlit interface for querying and visualizing medical insights.
-- **🏀[NBA Player Longevity Predictor](https://github.com/IbtissamLou/nba-player-longevity.git)** — Classification pipeline (XGBoost, Balanced RF), Optuna hyperparameter tuning, MLOps pipeline with Docker + FastAPI, CI/CD and monitoring.
-- **🩺[Machine Learning Pipeline for Pediatric Bone Marrow Transplant Survival Prediction](https://github.com/IbtissamLou/Patient_survival_status_ML_Pipeline.git)** -- Built an end-to-end machine learning pipeline using the UCI Pediatric Bone Marrow Transplantation dataset.
-- **🔋Energy Consumption Modeling (Groupe Atlantic × ENSAI)** — Customer consumption analysis and forecasting using Ridge/LASSO, Random Forest, Gradient Boosting; model interpretation with SHAP. 
-- **🏘️[Real Estate Listings Manager](https://github.com/IbtissamLou/Real-Estate-Listings-Manager.git)** — Automated scraping + PostgreSQL DAOs, REST API, filters & market-trend analysis.
-- **🔌Synthetic Load Curves Evaluation (EDF R&D)** — Evaluated GAN-generated electrical load curves; models/architectures: 1D CNN, TCN, PatchTST; added contextual features and comparative evaluation framework. 
-- **🛍️Interactive Statistical Analysis Tool (IFF)** — Python Dash app for exploratory analysis of olfactory profiles. 
+I design and build end-to-end intelligent systems — from data pipelines and modeling to deployment and monitoring — with a strong focus on real-world impact, scalability, and secure AI architectures.
 
----
+I’m particularly interested in:
 
-## 🛠️ Technical skills
+AI for real-world applications (health, mobility, safety)
+LLMs, RAG systems & agentic workflows
+Production ML systems (MLOps, APIs, deployment)
+Building AI systems that are useful, reliable, and trustworthy
 
-**Languages & frameworks:** Python (Pandas, NumPy), PyTorch, scikit-learn, Hugging Face, SpaCy, Java, SQL  
-**ML / DL / NLP:** Time series (TCN, PatchTST), CNN 1D, GANs, Optuna, RAG & LLM workflows  
-**Data & infra:** PostgreSQL, Spark, Docker, CI/CD (GitHub Actions), FastAPI, REST APIs  
-**Cloud & tools:** AWS, GCP, Git, Linux, LaTeX
+### 🔭 Spotlight Projects
 
----
+🩺 Healthcare Knowledge Assistant (RAG + Agentic AI)
+Built a medical assistant using Llama 3 + ChromaDB, enabling semantic search and reliable answer generation.
+Includes an interactive Streamlit interface for querying and visualizing medical insights.
 
-## 💼 Experience 
-- **ML Engineer Intern — EDF R&D (Paris-Saclay)** — Evaluated synthetic electricity load curves & improved data enrichment for forecasting models.  
-- **Data Scientist Intern — IFF** — Built interactive Dash analytics tool and proposed new ML-based analyses.
+🏀 NBA Player Longevity Predictor
+End-to-end ML pipeline with XGBoost & Balanced Random Forest, Optuna tuning, and production-ready deployment (Docker + FastAPI + CI/CD + monitoring).
 
----
+🩺 Pediatric Bone Marrow Transplant Survival Prediction
+Full ML pipeline on UCI dataset: preprocessing, modeling, evaluation, and reproducible workflow.
 
-## 🎓 Education
-- **Engineering Degree in Data Science**, ENSAI (Rennes), Sept 2021 — 2025  
-- **Integrated Engineering Preparatory Cycle**, ENSA (Morocco), Sept 2018 — 2021
+🔋 Energy Consumption Modeling (Groupe Atlantic × ENSAI)
+Time-series modeling & forecasting using Ridge/LASSO, Random Forest, Gradient Boosting, with explainability via SHAP.
 
----
+🏘️ Real Estate Listings Manager
+Data pipeline with web scraping + PostgreSQL + REST API, including filtering and market trend analysis.
 
-## 📫 Contact & links
-- Email: ibtissamloukili20@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/ibtissam-loukili
-- Medium: https://medium.com/@ibtissamcom1993
+🔌 Synthetic Load Curves Evaluation (EDF R&D)
+Evaluated GAN-generated time-series using 1D CNN, TCN, PatchTST, with contextual feature enrichment and benchmarking framework.
 
----
+🛍️ Interactive Statistical Analysis Tool (IFF)
+Built a Python Dash application for exploratory analysis of olfactory datasets and insights generation.
 
-## How to explore my work
-- Click any project above to see code, documentation.  
-- Each repo contains a clear `README` with: project description, tech stack, setup & run instructions, and example results.
+🧠 Current Focus
+Designing AI-powered products 
+Building RAG systems & agent-based architectures
+Developing scalable and production-ready ML systems
+Exploring secure, privacy-aware AI design
 
+🛠️ Technical Skills
+Languages & Frameworks
+Python (Pandas, NumPy), PyTorch, scikit-learn, Hugging Face, SpaCy, Java, SQL
 
+ML / DL / NLP
+Time series (TCN, PatchTST), CNNs, GANs, Optuna, RAG pipelines, LLM workflows
+
+Data & Infrastructure
+PostgreSQL, Spark, Docker, FastAPI, REST APIs, CI/CD (GitHub Actions)
+
+Cloud & Tools
+AWS, GCP, Git, Linux
+
+💼 Experience
+ML Engineer Intern — EDF R&D (Paris-Saclay)
+Evaluated synthetic energy consumption data and improved modeling pipelines for forecasting systems.
+Data Scientist Intern — IFF
+Built an interactive analytics platform and developed ML-driven insights for product improvement.
+
+🎓 Education
+Engineering Degree in Data Science — ENSAI (France)
+
+📫 Contact
+Email: ibtissamloukili20@gmail.com
+LinkedIn: https://www.linkedin.com/in/ibtissam-loukili
+Medium: https://medium.com/@ibtissamcom1993
+
+🚀 How to Explore My Work
+Each project includes a detailed README with:
+Problem definition
+Technical approach
+Architecture
+Setup instructions
+Results & insights
